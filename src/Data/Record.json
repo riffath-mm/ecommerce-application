@@ -1,0 +1,109 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "toothpaste",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Books",
+    "price": "$1",
+    "author": "Stephen King",
+    "Name": "chemistry"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "brush",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Clothes",
+    "price": "$18",
+    "brand": "Nike",
+    "Name": "Jacket"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "soap",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Footware",
+    "price": "rs 4500",
+    "brand": "bata",
+    "Name": "Shoe"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "notebook",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Home",
+    "price": "$19",
+    "brand": "Nike",
+    "Name": "Mathematics",
+    "author": "Mark Twain"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "pen",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Books",
+    "price": "Rs 500",
+    "author": "William Shakespeare",
+    "Name": "Physics"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "pencil",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Clothes",
+    "price": "Rs 1800",
+    "brand": "Levi's",
+    "Name": "T-shirt"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "mobile",
+    "image": "{`'https://source.unsplash.com/random?house,cars&${new Date().getTime()}'`}",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Footware",
+    "price": "Rs 2700",
+    "brand": "Adidas",
+    "Name": "lofaf shoe"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "toothpaste",
+    "image": "{`'https://source.unsplash.com/random?house,cars&${new Date().getTime()}'`}",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Home",
+    "price": "$5",
+    "brand": "Woodland",
+    "Name": "sleeper",
+    "author": "William"
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "nesciunt iure omnis dolorem tempora et accusantium",
+    "image": "{`'https://source.unsplash.com/random?house,cars&${new Date().getTime()}'`}",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Home",
+    "price": "$50",
+    "brand": "Gucci",
+    "Name": "T-shirt",
+    "author": "J.K.Rowling"
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "optio molestias id quia eum",
+    "image": "{`'https://source.unsplash.com/random?house,cars&${new Date().getTime()}'`}",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "category": "Clothes",
+    "price": "$150",
+    "brand": "Gucci",
+    "Name": "Sweater"
+  }
+]
